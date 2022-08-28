@@ -31,31 +31,6 @@ Cytotoxis T cell, Destroyed cell, Memory B and T cells, SARS-CoV-2 and T-helper 
 </figure>
 
 
-Question: Can you label elements of the innate immune system in this illustration from memory?
-
-| Cell type | Number in illustration |
-| --- | --- | 
-| Antigen presenting cell |  | 
-| B cell                  |  | 
-| Cytotoxic T cell        |  | 
-| Destroyed cell          |  | 
-| Memory B and T cell     |  | 
-| SARS-CoV-2 virus        |  | 
-| T-helper cell           |  | 
-
-
-<!--- Answer
-| Cell type | Number in illustration |
-| --- | --- | 
-| Antigen presenting cell | 2 | 
-| B cell                  | 4 | 
-| Cytotoxic T cell        | 5 | 
-| Destroyed cell          | 6 | 
-| Memory B and T cell     | 7 | 
-| SARS-CoV-2 virus        | 1 | 
-| T-helper cell           | 3 | 
---->
-
 ## Lesson
 
 <figure>
@@ -92,4 +67,4 @@ Question: Can you label elements of the innate immune system in this illustratio
 ## References
 
 - Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. <https://www.ncbi.nlm.nih.gov/books/NBK21054/>
-- Callaway E. The Race for Coronavirus Vaccines. 2020. <https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf>
+- Callaway E. The Race for Coronavirus Vaccines: a graphical guide. 2020. <https://www.nature.com/articles/d41586-020-01221-y> <https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf> 

@@ -15,12 +15,48 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Explain how animal cells recognize invading microbes
 - Describe how the inflammation response is triggered
 - Contrast controlled and uncontrolled immune responses
+- Defend the use of vaccines to protect against infectious diseases
 
-## Pre-Lesson Questions
+## Pre-Lesson Question
 
-1. Lorium epsum
-1. Lorium epsum
-1. Lorium epsum
+Understanding how we develop immunity is critical to understanding how vaccines work. You may have have learning about innate and adaptive immunity in previous classes or through the news. 
+
+
+<figure>
+<center>
+<img src="img/immunity-1.jpeg" style="width:80%">
+<figcaption><b>Can you label elements of the innate immune system in this illustration from memory?</b> Chose from: Antigen presenting cell, B cell
+Cytotoxis T cell, Destroyed cell, Memory B and T cells, SARS-CoV-2 and T-helper cell. <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
+</center>
+</figure>
+
+
+Question: Can you label elements of the innate immune system in this illustration from memory?
+
+| Cell type | Number in illustration |
+| --- | --- | 
+| Antigen presenting cell |  | 
+| B cell                  |  | 
+| Cytotoxic T cell        |  | 
+| Destroyed cell          |  | 
+| Memory B and T cell     |  | 
+| SARS-CoV-2 virus        | 1 | 
+| T-helper cell           |  | 
+
+
+<!--- Answer
+
+| Cell type | Number in illustration |
+| --- | --- | 
+| Antigen presenting cell | 2 | 
+| B cell                  | 4 | 
+| Cytotoxic T cell        | 5 | 
+| Destroyed cell          | 6 | 
+| Memory B and T cell     | 7 | 
+| SARS-CoV-2 virus        | 1 | 
+| T-helper cell           | 3 | 
+
+--->
 
 ## Lesson
 
@@ -39,6 +75,15 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 </center>
 </figure>
 
+
+<figure>
+<center>
+<img src="img/immunity-1.jpeg" style="width:50%">
+<figcaption><b>The Race for Coronavirus vaccines.</b> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Nature Illustration by Nik Spencer.</a><p></p></figcaption>
+</center>
+</figure>
+
+
 ## Post Lesson Questions
 
 1. Lorium epsum
@@ -48,4 +93,5 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 
 ## References
 
-- Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. Available from: <https://www.ncbi.nlm.nih.gov/books/NBK21054/>
+- Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. <https://www.ncbi.nlm.nih.gov/books/NBK21054/>
+- Callaway E. The Race for Coronavirus Vaccines. 2020. <https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf>

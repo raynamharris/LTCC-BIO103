@@ -1,37 +1,35 @@
 # Activation of adaptive immunity by elements of the innate immune system
 
 <!---
-Remember: Recall facts and concepts. Define, duplicate, memorize, repeat, state.
+Remember: Recall facts and concepts. Define, duplicate, memorize, repeat, and state.
 Understand: Explain ideas or concepts. Classify, describe, explain, select.
 Apply: Use information in new situations. Execute, solve, interpret, sketch.
 Analyze: Draw connections among ideas. Organize, compare, contrast, examine.
-Evaluate: Justify and stand or decision. Argue, defend, critique.
+Evaluate: Justify a stand or decision. Argue, defend, critique.
 Create: Produce new or original work. Design, develop, formulate, investigate.
 --->
 
-## Learning Objective
+## Learning Objectives
 
-- Classify elements as part of the innate and/or adaptive immune system 
+- Classify elements of the innate and adaptive immune systems
 - Explain how animal cells recognize invading microbes
-- Describe how the inflammation response is triggered
-- Contrast controlled and uncontrolled immune responses
 - Defend the use of vaccines to protect against infectious diseases
 
 ## Pre-Lesson Question
 
-Understanding how we develop immunity is critical to understanding how vaccines work. You may have have learning about innate and adaptive immunity in previous classes or through the news. 
+Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 
 
 
 <figure>
 <center>
 <img src="img/immunity-1.jpeg" style="width:90%">
 <figcaption><b>Can you label elements of the innate immune system in this illustration from memory?</b> <br> Antigen presenting cell - B cell -
-Cytotoxis T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper cell. <br> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
+Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper cell. <br> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>
 
 
-## Lesson
+## Mechanisms of Innate and Adaptive Immunity
 
 <figure>
 <center>
@@ -48,6 +46,7 @@ Cytotoxis T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 </center>
 </figure>
 
+## Vaccines and Immunity
 
 <figure>
 <center>
@@ -57,11 +56,9 @@ Cytotoxis T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 </figure>
 
 
-## Post Lesson Questions
+## Post Lesson Exercise
 
-1. Lorium epsum
-1. Lorium epsum
-1. Lorium epsum
+Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
 
 
 ## References

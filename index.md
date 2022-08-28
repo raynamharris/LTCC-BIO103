@@ -26,7 +26,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 <figure>
 <center>
 <img src="https://www.ncbi.nlm.nih.gov/books/NBK21070/bin/ch24f1.jpg" style="width:20%">
-<figcaption><b>Innate and adaptive immune responses. </i>Innate immune responses are activated directly by pathogens and defend all multicellular organisms against infection. In vertebrates, pathogens, together with the innate immune responses they activate, stimulate adaptive immune responses, which then help fight the infection.<a href="https://www.ncbi.nlm.nih.gov/books/NBK21070/figure/A4420/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
+<figcaption><b>Innate and adaptive immune responses. </b>Innate immune responses are activated directly by pathogens and defend all multicellular organisms against infection. In vertebrates, pathogens, together with the innate immune responses they activate, stimulate adaptive immune responses, which then help fight the infection.<a href="https://www.ncbi.nlm.nih.gov/books/NBK21070/figure/A4420/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
 

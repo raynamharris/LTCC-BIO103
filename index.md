@@ -51,7 +51,7 @@ Cytotoxis T cell, Destroyed cell, Memory B and T cells, SARS-CoV-2 and T-helper 
 
 <figure>
 <center>
-<img src="img/immunity-1.jpeg" style="width:50%">
+<img src="img/immunity-2.jpeg" style="width:50%">
 <figcaption><b>The Race for Coronavirus vaccines.</b> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Nature Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>

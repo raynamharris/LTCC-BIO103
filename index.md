@@ -40,12 +40,11 @@ Question: Can you label elements of the innate immune system in this illustratio
 | Cytotoxic T cell        |  | 
 | Destroyed cell          |  | 
 | Memory B and T cell     |  | 
-| SARS-CoV-2 virus        | 1 | 
+| SARS-CoV-2 virus        |  | 
 | T-helper cell           |  | 
 
 
 <!--- Answer
-
 | Cell type | Number in illustration |
 | --- | --- | 
 | Antigen presenting cell | 2 | 
@@ -55,7 +54,6 @@ Question: Can you label elements of the innate immune system in this illustratio
 | Memory B and T cell     | 7 | 
 | SARS-CoV-2 virus        | 1 | 
 | T-helper cell           | 3 | 
-
 --->
 
 ## Lesson

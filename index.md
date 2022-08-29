@@ -25,7 +25,7 @@ Understanding how we develop immunity is critical to understanding how vaccines 
 
 <figure>
 <center>
-<img src="img/immunity-1.jpeg" style="width:90%">
+<img src="img/immunity/immunity.001.jpeg" style="width:90%">
 <figcaption><b>Which element best corresponds to the following cell type(s) 1-7?</b> <br>Choose from the following: Antigen presenting cell - B cell -
 Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper cell. <br> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
@@ -53,7 +53,7 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 
 <figure>
 <center>
-<img src="img/immunity-2.jpeg" style="width:90%">
+<img src="img/immunity/nature.jpeg" style="width:75%">
 <figcaption><b>The Race for Coronavirus Vaccines: a graphical guide. </b> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">By Ewen Callaway. Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>

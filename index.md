@@ -59,6 +59,10 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 </center>
 </figure>
 
+## Only in vertebrates?
+
+Many older publications state that the adaptive immune response is a feature found only in vertebrates. However, the discovery  of CRISPR (an acronym for clustered regularly interspaced short palindromic repeats. a family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea) lead to the [2020 Nobel Prize in Chemistry](https://www.nobelprize.org/prizes/chemistry/2020/summary/) is part of a great understanding that microbal Crisper-Cas system 
+
 
 ## Post Lesson Exercise
 

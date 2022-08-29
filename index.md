@@ -26,7 +26,7 @@ Understanding how we develop immunity is critical to understanding how vaccines 
 <figure>
 <center>
 <img src="img/immunity-1.jpeg" style="width:90%">
-<figcaption><b>Can you label elements of the innate immune system in this illustration from memory?</b> <br>Choose from the following: Antigen presenting cell - B cell -
+<figcaption><b>Which element best corresponds to the following cell type(s) 1-7?</b> <br>Choose from the following: Antigen presenting cell - B cell -
 Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper cell. <br> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>

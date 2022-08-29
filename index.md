@@ -21,7 +21,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 
 
 
-**Can you label elements of the innate immune system in this illustration from memory?**
+**Can you label elements of the innate and adaptive immune systems in this illustration from memory?**
 
 
 <figure>

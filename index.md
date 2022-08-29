@@ -47,7 +47,7 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 <center>
 <img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:80%">
 <figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b> Specialized phagocytic cells of the innate immune system, including macrophages (not shown) and dendritic cells ingest invading microbes or their products at the site of infection. The dendritic cells then mature and migrate in lymphatic vessels to a nearby lymph node, where they serve as antigen-presenting cells. The antigen-presenting cells activate T cells to respond to the microbial antigens that are displayed on the presenting cells' surface. The antigen-presenting cells also have special proteins on their surface (called costimulatory molecules) that help activate the T cells. Some of the activated T cells then migrate to the site of infection where they either help activate macrophages or kill infected cells, thereby helping to eliminate the microbes. As we discuss later, the costimulatory molecules appear on dendritic cells only after these cells mature in response to invading microbes. <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
-</center>f
+</center>
 </figure>
 
 ## Vaccines and Immunity

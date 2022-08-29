@@ -65,7 +65,7 @@ Many older publications state that the adaptive immune response is a feature fou
 - **Health/Environmental**: Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 - **Evolution**: Discuss what might happen to the efficacy of a vaccine if the microbe mutates.
 
-## [Practice Biology GRE Questions](https://www.varsitytutors.com/gre_subject_test_biology-help/animal-biology/immunobiology/) 
+## Practice Biology GRE Questions
 
 Which type of cell is responsible for making antibodies?
 

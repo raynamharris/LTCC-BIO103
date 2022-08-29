@@ -14,6 +14,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Classify elements of the innate and adaptive immune systems
 - Explain how animal cells recognize invading microbes
 - Defend the use of vaccines to protect against infectious diseases
+- Discuss experiments to test socio-economic and biomedically relevant factors that influence immune system function
 
 ## Pre-Lesson Question
 
@@ -58,7 +59,9 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 
 ## Post Lesson Exercise
 
-Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
+- **SciComm**: Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
+- **Biochem/Statics**: Design an experiment to test if there are any significant genetic or environmental factors influencing the response between two populations. 
+- **Health/Environmental**: Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 
 
 ## References

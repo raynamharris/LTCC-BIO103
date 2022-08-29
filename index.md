@@ -14,9 +14,8 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Classify elements of the innate and adaptive immune systems
 - Explain how animal cells recognize invading microbes
 - Defend the use of vaccines to protect against infectious diseases
-- Discuss experiments to test socio-economic and biomedically relevant factors that influence immune system function
+- Discuss experiments to test socio-economic and biomedically-relevant factors that influence immune system function
 
-## Pre-Lesson Question
 
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 
 
@@ -63,6 +62,10 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 - **Biochem/Statics**: Design an experiment to test if there are any significant genetic or environmental factors influencing the response between two populations. 
 - **Health/Environmental**: Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 
+
+## Bonus: Typos 
+
+Yes, there is a typo in one of the figures. _Cytotoxic_ T cells are a thing. _Cytotoxis_ T cell are not thing. Notice any other typos? [Email me](mailto:rayna.harris@gmail.com).
 
 ## References
 

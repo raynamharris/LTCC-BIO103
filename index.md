@@ -15,6 +15,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Explain how animal cells recognize invading microbes
 - Defend the use of vaccines to protect against infectious diseases
 - Discuss experiments to test genetic and environmental factors that influence immune system function
+- Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 
 
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 
@@ -46,7 +47,7 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 <center>
 <img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:80%">
 <figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b> Specialized phagocytic cells of the innate immune system, including macrophages (not shown) and dendritic cells ingest invading microbes or their products at the site of infection. The dendritic cells then mature and migrate in lymphatic vessels to a nearby lymph node, where they serve as antigen-presenting cells. The antigen-presenting cells activate T cells to respond to the microbial antigens that are displayed on the presenting cells' surface. The antigen-presenting cells also have special proteins on their surface (called costimulatory molecules) that help activate the T cells. Some of the activated T cells then migrate to the site of infection where they either help activate macrophages or kill infected cells, thereby helping to eliminate the microbes. As we discuss later, the costimulatory molecules appear on dendritic cells only after these cells mature in response to invading microbes. <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
-</center>
+</center>f
 </figure>
 
 ## Vaccines and Immunity
@@ -62,7 +63,7 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 ## Post Lesson Exercise
 
 - **SciComm**: Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
-- **Biochem/Statics**: Design an experiment to test if there are any significant genetic or environmental factors influencing the response between two populations. 
+- **Biochem/Statics**: Discuss an experiment to test if there are any significant genetic or environmental factors influencing the response between two populations. 
 - **Health/Environmental**: Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 
 

@@ -41,7 +41,7 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 <figure>
 <center>
 <img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:80%">
-<figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b> Specialized phagocytic cells of the innate immune system, including macrophages (not shown) and dendritic cells ingest invading microbes or their products at the site of infection. The dendritic cells then mature and migrate in lymphatic vessels to a nearby lymph node, where they serve as antigen-presenting cells. The antigen-presenting cells display microbial antigens, whole or fragmented biomolecules from the invading pathogen, to T cells in the lymph node. The some of the activated T cells then migrate to the site of infection and target microbes/cells displaying the target antigen upon their surface. One unique feature of the antigen-presenting cells is a special proteins on their surface (called costimulatory molecules) that help activate the T cells. The costimulatory molecules appear on dendritic cells only after these cells mature in response to invading microbes.<a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
+<figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b> Specialized phagocytic cells of the innate immune system, including macrophages (not shown) and dendritic cells ingest invading microbes or their products at the site of infection. The dendritic cells then mature and migrate in lymphatic vessels to a nearby lymph node, where they serve as antigen-presenting cells. The antigen-presenting cells display microbial antigens, whole or fragmented biomolecules from the invading pathogen, to T cells in the lymph node. The some of the activated T cells then migrate to the site of infection and target microbes/cells displaying the target antigen upon their surface. One unique feature of the antigen-presenting cells is a special proteins on their surface (called costimulatory molecules) that help activate the T cells. The costimulatory molecules appear on dendritic cells only after these cells mature in response to invading microbes. <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
 
@@ -75,7 +75,7 @@ Which type of cell is responsible for making antibodies?
 1. Basophils
 
 
-Which cell is necessary in order to allow B-ymphoytes to differentiate into plasma cells and memory B-cells? 
+Which cell is necessary in order to allow B-lymphoytes to differentiate into plasma cells and memory B-cells? 
 
 1. Cytotoxic T-cells
 1. Helper T-cells

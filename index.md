@@ -14,8 +14,6 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Classify elements of the innate and adaptive immune systems
 - Explain how animal cells recognize invading microbes
 - Defend the use of vaccines to protect against infectious diseases
-- Design experiments to test genetic and environmental factors that influence immune system function
-- Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 
 ## Pre-Lesson Quiz
 

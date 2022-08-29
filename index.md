@@ -71,10 +71,6 @@ Many older publications state that the adaptive immune response is a feature fou
 - **Health/Environmental**: Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 
 
-## Bonus: Typos 
-
-Yes, there is a typo in one of the figures. _Cytotoxic_ T cells are a thing. _Cytotoxis_ T cell are not thing. Notice any other typos? [Email me](mailto:rayna.harris@gmail.com).
-
 ## References
 
 - Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. <https://www.ncbi.nlm.nih.gov/books/NBK21054/>

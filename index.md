@@ -14,7 +14,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Classify elements of the innate and adaptive immune systems
 - Explain how animal cells recognize invading microbes
 - Defend the use of vaccines to protect against infectious diseases
-- Discuss experiments to test socio-economic and biomedically-relevant factors that influence immune system function
+- Discuss experiments to test genetic and environmental factors that influence immune system function
 
 
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 

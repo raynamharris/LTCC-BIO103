@@ -17,6 +17,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Design experiments to test genetic and environmental factors that influence immune system function
 - Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
 
+## Pre-Lesson Quiz
 
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 
 
@@ -64,7 +65,7 @@ Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper
 Many older publications state that the adaptive immune response is a feature found only in vertebrates. However, the discovery  of CRISPR (an acronym for clustered regularly interspaced short palindromic repeats. a family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea) lead to the [2020 Nobel Prize in Chemistry](https://www.nobelprize.org/prizes/chemistry/2020/summary/) is part of a great understanding that microbal Crisper-Cas system 
 
 
-## Post Lesson Exercise
+## Post Lesson Group Activities 
 
 - **SciComm**: Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
 - **Biochem/Statics**: Discuss an experiment to test if there are any significant genetic or environmental factors influencing the response between two populations. 

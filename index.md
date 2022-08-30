@@ -13,7 +13,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 
 - Classify elements of the innate and adaptive immune systems
 - Explain how animal cells recognize invading microbes
-- Defend the use of vaccines to protect against infectious diseases
+- Explain how vaccines to protect against infectious diseases
 
 ## Pre-Lesson Quiz
 
@@ -21,27 +21,41 @@ Understanding how we develop immunity is critical to understanding how vaccines 
 
 **Can you label elements of the innate and adaptive immune systems in this illustration from memory?**
 
+Choose from the following: 
+- Antigen presenting cell 
+- B cell 
+- Cytotoxic T cell 
+- Destroyed cell 
+- Memory B and T cells 
+- SARS-CoV-2 
+- T-helper cell
+
 <figure>
 <center>
 <img src="img/immunity/immunity.001.jpeg" style="width:90%">
-<figcaption><b>Which element best corresponds to the following cell type(s) 1-7?</b> <br>Choose from the following: Antigen presenting cell - B cell -
-Cytotoxic T cell - Destroyed cell - Memory B and T cells - SARS-CoV-2 - T-helper cell. <br> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
+<figcaption><b>Fill in the blank graphical illustration.<br><a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>
 
 ## Mechanisms of Innate and Adaptive Immunity
 
+Innate immune responses are activated directly by pathogens and defend all multicellular organisms against infection. In vertebrates, pathogens, together with the innate immune responses they activate, stimulate adaptive immune responses, which then help fight the infection. 
+
 <figure>
 <center>
 <img src="https://www.ncbi.nlm.nih.gov/books/NBK21070/bin/ch24f1.jpg" style="width:20%">
-<figcaption><b>Innate and adaptive immune responses. </b>Innate immune responses are activated directly by pathogens and defend all multicellular organisms against infection. In vertebrates, pathogens, together with the innate immune responses they activate, stimulate adaptive immune responses, which then help fight the infection. <a href="https://www.ncbi.nlm.nih.gov/books/NBK21070/figure/A4420/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
+<figcaption><b>Innate and adaptive immune responses.</b> <br> <a href="https://www.ncbi.nlm.nih.gov/books/NBK21070/figure/A4420/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
+
+Specialized phagocytic cells of the innate immune system, including macrophages and neutrophils (not shown) and dendritic cells ingest invading microbes or their products at the site of infection. The dendritic cells then mature and migrate in lymphatic vessels to a nearby lymph node, where they serve as antigen-presenting cells. 
+
+The antigen-presenting cells display microbial antigens, whole or fragmented biomolecules from the invading pathogen, to T cells in the lymph node. Some of the activated T cells then migrate to the site of infection and target microbes/cells displaying the target antigen upon their surface. One unique feature of the antigen-presenting cells is a special proteins on their surface (called costimulatory molecules) that help activate the T cells. The costimulatory molecules appear on dendritic cells only after these cells mature in response to invading microbes.
 
 <figure>
 <center>
 <img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:80%">
-<figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b> Specialized phagocytic cells of the innate immune system, including macrophages (not shown) and dendritic cells ingest invading microbes or their products at the site of infection. The dendritic cells then mature and migrate in lymphatic vessels to a nearby lymph node, where they serve as antigen-presenting cells. The antigen-presenting cells display microbial antigens, whole or fragmented biomolecules from the invading pathogen, to T cells in the lymph node. The some of the activated T cells then migrate to the site of infection and target microbes/cells displaying the target antigen upon their surface. One unique feature of the antigen-presenting cells is a special proteins on their surface (called costimulatory molecules) that help activate the T cells. The costimulatory molecules appear on dendritic cells only after these cells mature in response to invading microbes. <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
+<figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b>  <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
 

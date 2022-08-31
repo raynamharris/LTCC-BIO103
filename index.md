@@ -39,6 +39,8 @@ Choose from the following:
 </center>
 </figure>
 
+<div style="break-after:page"></div>
+
 ## Mechanisms of Innate and Adaptive Immunity
 
 Innate immune responses are activated directly by pathogens. Innate immune responses and previously-encountered pathogens stimulate adaptive immune responses to help fight the infection. How does the innate immune system activate the adaptive immune system?

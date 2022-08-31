@@ -33,7 +33,7 @@ Choose from the following:
 <figure>
 <center>
 <img src="img/immunity/immunity.001.jpeg" style="width:90%">
-<figcaption><b>Fill in the blank graphical illustration.<br><a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
+<figcaption><b>Fill in the blank graphical illustration.</b><br><a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">Adapted from Nature Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>
 
@@ -55,6 +55,7 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 <figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b>  <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
+
 
 ## Vaccines and Immunity
 

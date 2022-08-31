@@ -15,6 +15,8 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Explain how animal cells recognize invading microbes
 - Explain how vaccines protect against infectious diseases
 
+<div style="break-after:page"></div>
+
 ## Pre-Lesson Quiz
 
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 

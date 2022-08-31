@@ -15,13 +15,6 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Explain how animal cells recognize invading microbes
 - Explain how vaccines to protect against infectious diseases
 
-## Learner Profiles
-
-- Genevieve is an aspiring science journalists and dreams of working for national geographic. She works as a part-time weding photographer 
-- **Biochem/Statics**: Discuss an experiment to test if there are any significant genetic or environmental factors influencing the response between two populations. 
-- **Health/Environmental**: Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
-- **Evolution**: Discuss what might happen to the efficacy of a vaccine if the microbe mutates.
-
 ## Pre-Lesson Quiz
 
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 
@@ -50,7 +43,7 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 
 <figure>
 <center>
-<img src="https://www.ncbi.nlm.nih.gov/books/NBK21070/bin/ch24f1.jpg" style="width:40%">
+<img src="https://www.ncbi.nlm.nih.gov/books/NBK21070/bin/ch24f1.jpg" style="width:20%">
 <figcaption><b>Innate and adaptive immune responses.</b> <br> <a href="https://www.ncbi.nlm.nih.gov/books/NBK21070/figure/A4420/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
@@ -74,12 +67,7 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 </figure>
 
 
-## Post Lesson Group Activities 
 
-- **SciComm**: Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
-- **Biochem/Statics**: Discuss an experiment to test if there are any significant genetic or environmental factors influencing the response between two populations. 
-- **Health/Environmental**: Compare and contrast the immune response of stressed and non-stressed individuals with those of immune-deficient individuals.
-- **Evolution**: Discuss what might happen to the efficacy of a vaccine if the microbe mutates.
 
 ## Practice Biology GRE Questions
 
@@ -106,9 +94,14 @@ Which immune cell is part of acquired immunity?
 1. Plasma cell
 1. Eosinophil
 
-
 _[Click here for GRE answers.](answers.md)_
 
+
+## Post Lesson Group Activities 
+
+- Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
+- Compare and contrast the immune response of healthy and immune-deficient individuals.
+- Discuss what might happen to the efficacy of a vaccine if the microbe mutates.
 
 ## References
 

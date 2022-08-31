@@ -55,8 +55,8 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 
 <figure>
 <center>
-<img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:80%">
-<figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b>  <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
+<img src="https://www.ncbi.nlm.nih.gov/books/NBK26827/bin/ch24f66.jpg" style="width:80%">
+<figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b>  <a href="https://www.ncbi.nlm.nih.gov/books/NBK26827/figure/A4537/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
 

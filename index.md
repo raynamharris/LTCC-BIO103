@@ -92,7 +92,7 @@ Which cell is necessary to allow B-cells to differentiate into plasma cells and 
 1. Macrophages
 
 
-Which immune cell is part of acquired immunity?
+Which immune cell is part of adaptive immunity?
 
 1. Macrophage
 1. Neutrophil

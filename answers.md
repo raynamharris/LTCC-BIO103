@@ -20,7 +20,10 @@ Which cell is necessary in order to allow B-lymphoytes to differentiate into pla
 
 Helper T cells are arguably the most important cells in adaptive immunity, as they are required for almost all adaptive immune responses. They not only help activate B cells to secrete antibodies and macrophages to destroy ingested microbes, but they also help activate cytotoxic T cells to kill infected target cells. 
 
-Which immune cell is part of acquired immunity?
+<div style="break-after:page"></div>
+
+
+Which immune cell is part of adaptive immunity?
 
 1. Macrophage
 1. Neutrophil

@@ -74,7 +74,7 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 
 <div style="break-after:page"></div>
 
-## Practice Biology GRE Questions
+## Multiple Choice Questions and [Answers](answers.md)
 
 Which type of cell is responsible for making antibodies?
 
@@ -98,8 +98,6 @@ Which immune cell is part of acquired immunity?
 1. Neutrophil
 1. Plasma cell
 1. Eosinophil
-
-_[Click here for GRE answers.](answers.md)_
 
 
 ## Group Activities 

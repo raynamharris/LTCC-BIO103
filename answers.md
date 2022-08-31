@@ -1,11 +1,11 @@
-# Practice Biology GRE Answers
+# Answers
 
 _Sources: <https://www.varsitytutors.com/gre_subject_test_biology-help/animal-biology/immunobiology> and <https://www.ncbi.nlm.nih.gov/books/NBK21054/>_
 
 Which type of cell is responsible for making antibodies?
 
-1. T-lymphocytes
-1. **B-lymphocytes**
+1. T-cells
+1. **B-cells**
 1. Macrophages
 1. Basophils
 

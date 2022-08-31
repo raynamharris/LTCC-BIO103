@@ -100,7 +100,7 @@ _[Click here for GRE answers.](answers.md)_
 
 ## Group Activities 
 
-- Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
+- Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person. 
 - Compare and contrast the immune response of healthy and immune-deficient individuals.
 - Discuss what might happen to the efficacy of a vaccine if the microbe mutates.
 

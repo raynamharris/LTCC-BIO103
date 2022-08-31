@@ -15,6 +15,10 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 - Explain how animal cells recognize invading microbes
 - Explain how vaccines protect against infectious diseases
 
+## Learner Profiles
+
+Genevieve wants to be a nurse practitioner. She volunteers 
+
 ## Pre-Lesson Quiz
 
 Understanding how we develop immunity is critical to understanding how vaccines work. You may have learned about innate and adaptive immunity in previous classes or through the news. 
@@ -51,7 +55,7 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 
 <figure>
 <center>
-<img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:80%">
+<img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:70%">
 <figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b>  <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
@@ -61,7 +65,7 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 
 <figure>
 <center>
-<img src="img/immunity/nature.jpeg" style="width:75%">
+<img src="img/immunity/nature.jpeg" style="width:60%">
 <figcaption><b>The Race for Coronavirus Vaccines: a graphical guide. </b> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">By Ewen Callaway. Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>

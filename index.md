@@ -13,7 +13,7 @@ Create: Produce new or original work. Design, develop, formulate, investigate.
 
 - Classify elements of the innate and adaptive immune systems
 - Explain how animal cells recognize invading microbes
-- Explain how vaccines to protect against infectious diseases
+- Explain how vaccines protect against infectious diseases
 
 ## Pre-Lesson Quiz
 
@@ -22,7 +22,7 @@ Understanding how we develop immunity is critical to understanding how vaccines 
 **Can you label elements of the innate and adaptive immune systems in this illustration from memory?**
 
 Choose from the following: 
-- Antigen presenting cell 
+- Antigen-presenting cell 
 - B cell 
 - Cytotoxic T cell 
 - Destroyed cell 
@@ -79,7 +79,7 @@ Which type of cell is responsible for making antibodies?
 1. Basophils
 
 
-Which cell is necessary in order to allow B-lymphoytes to differentiate into plasma cells and memory B-cells? 
+Which cell is necessary to allow B-lymphocytes to differentiate into plasma cells and memory B-cells? 
 
 1. Cytotoxic T-cells
 1. Helper T-cells
@@ -97,7 +97,7 @@ Which immune cell is part of acquired immunity?
 _[Click here for GRE answers.](answers.md)_
 
 
-## Post Lesson Group Activities 
+## Group Activities 
 
 - Explain to your neighbor why it takes longer for an unvaccinated person to mount an adaptive immune response to the coronavirus compared to a vaccinated person, all other factors considered equal. 
 - Compare and contrast the immune response of healthy and immune-deficient individuals.

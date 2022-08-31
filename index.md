@@ -55,23 +55,24 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 
 <figure>
 <center>
-<img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:70%">
+<img src="https://www.ncbi.nlm.nih.gov/books/NBK26921/bin/ch24f5.jpg" style="width:80%">
 <figcaption><b>One way in which the innate immune system helps activate the adaptive immune system.</b>  <a href="https://www.ncbi.nlm.nih.gov/books/NBK26921/figure/A4427/">Molecular Biology of the Cell (4th edition)</a><p></p></figcaption>
 </center>
 </figure>
 
+<div style="break-after:page"></div>
 
 ## Vaccines and Immunity
 
 <figure>
 <center>
-<img src="img/immunity/nature.jpeg" style="width:60%">
+<img src="img/immunity/nature.jpeg" style="width:75%">
 <figcaption><b>The Race for Coronavirus Vaccines: a graphical guide. </b> <a href="https://media.nature.com/original/magazine-assets/d41586-020-01221-y/d41586-020-01221-y.pdf">By Ewen Callaway. Illustration by Nik Spencer.</a><p></p></figcaption>
 </center>
 </figure>
 
 
-
+<div style="break-after:page"></div>
 
 ## Practice Biology GRE Questions
 

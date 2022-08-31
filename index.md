@@ -74,13 +74,13 @@ Innate immune responses are activated directly by pathogens. Innate immune respo
 
 Which type of cell is responsible for making antibodies?
 
-1. T-lymphocytes
-1. B-lymphocytes
+1. T-cells
+1. B-cells
 1. Macrophages
 1. Basophils
 
 
-Which cell is necessary to allow B-lymphocytes to differentiate into plasma cells and memory B-cells? 
+Which cell is necessary to allow B-cells to differentiate into plasma cells and memory B-cells? 
 
 1. Cytotoxic T-cells
 1. Helper T-cells

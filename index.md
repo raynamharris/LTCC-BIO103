@@ -39,7 +39,7 @@ Choose from the following:
 
 ## Mechanisms of Innate and Adaptive Immunity
 
-Innate immune responses are activated directly by pathogens and defend all multicellular organisms against infection. In vertebrates, pathogens, together with the innate immune responses they activate, stimulate adaptive immune responses, which then help fight the infection. 
+Innate immune responses are activated directly by pathogens. Innate immune responses and previously-encountered pathogens stimulate adaptive immune responses to help fight the infection. How does the innate immune system activate the adaptive immune system?
 
 <figure>
 <center>
@@ -48,9 +48,6 @@ Innate immune responses are activated directly by pathogens and defend all multi
 </center>
 </figure>
 
-Specialized phagocytic cells of the innate immune system, including macrophages and neutrophils (not shown) and dendritic cells ingest invading microbes or their products at the site of infection. The dendritic cells then mature and migrate in lymphatic vessels to a nearby lymph node, where they serve as antigen-presenting cells. 
-
-The antigen-presenting cells display microbial antigens, whole or fragmented biomolecules from the invading pathogen, to T cells in the lymph node. Some of the activated T cells then migrate to the site of infection and target microbes/cells displaying the target antigen upon their surface. One unique feature of the antigen-presenting cells is a special proteins on their surface (called costimulatory molecules) that help activate the T cells. The costimulatory molecules appear on dendritic cells only after these cells mature in response to invading microbes.
 
 <figure>
 <center>
@@ -68,9 +65,6 @@ The antigen-presenting cells display microbial antigens, whole or fragmented bio
 </center>
 </figure>
 
-## Only in vertebrates?
-
-Many older publications state that the adaptive immune response is a feature found only in vertebrates. However, the discovery of CRISPR, an acronym for clustered regularly interspaced short palindromic repeats, disproved that theory. CRISPR-CAS9 is the adaptive immunity of prokaryotes in response to viruses. This family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea led to the [2020 Nobel Prize in Chemistry](https://www.nobelprize.org/prizes/chemistry/2020/summary/) and is part of the great understanding that adaptive immunity in microorganisms.
 
 ## Post Lesson Group Activities 
 

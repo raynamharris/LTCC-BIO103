@@ -1,3 +1,5 @@
+# Linear versus Log Scales and Log Tranformations
+
 ## Synthetic Data
 
     ##       Var1     Var2 logVar1 logVar2

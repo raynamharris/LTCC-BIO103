@@ -1,7 +1,7 @@
 ---
 title: "Linear versus Log Scales and Log Tranformations"
 date: "1/31/2023"
-output: md_document
+output: pdf_document
 df_print: kable
 ---
 
@@ -111,7 +111,7 @@ g <- ggplot(df2, aes(x = Mass, y = BMR/Mass)) +
     scale_y_log10( ) +
     scale_x_log10( )
 
-plot_grid(d, e, f, g, nrow  = 2, align = "hv")
+plot_grid(d, f, e, g, nrow  = 2, align = "hv")
 
 ```
 

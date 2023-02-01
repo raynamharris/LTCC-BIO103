@@ -1,0 +1,117 @@
+---
+title: "Linear versus Log Scales and Log Tranformations"
+date: "1/31/2023"
+output: md_document
+df_print: kable
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, warning=F, fig.height = 5.25,
+                      fig.path = "img/")
+```
+
+
+```{r libraries}
+library(tidyverse)
+library(cowplot)
+library(kableExtra)
+
+options(scipen = 999) 
+```
+
+## Synthetic Data
+
+```{r, echo = F }
+df <- read_csv("log.csv") %>%
+  as.data.frame()
+
+df %>%
+    mutate(logVar1 = log10(Var1),
+           logVar2 = log10(Var2)) %>%
+  select(Var1, Var2, logVar1, logVar2) 
+```
+
+
+
+```{r, linear}
+a <- ggplot(df, aes(x = Var1, y = Var2)) +
+  geom_point() +
+  geom_line() +
+  geom_text(aes(label = Label), nudge_y = 100, size = 2) +
+  theme_classic() +
+  labs(subtitle = "Linear Scale") 
+
+b <- ggplot(df, aes(x = Var1, y = Var2)) +
+  geom_point() +
+  geom_line() +
+  geom_text(aes(label = Label), nudge_y = 0.5, size = 2.5) +
+  theme_classic() +
+  scale_y_log10( ) +
+  scale_x_log10( ) +
+  labs(subtitle = "Log Scale")
+
+c <- ggplot(df, aes(x = log10(Var1), y = log10(Var2))) +
+  geom_point() +
+  geom_line() +
+  geom_text(aes(label = Label), nudge_y = 0.5, size = 2.5) +
+  theme_classic() +
+  labs(subtitle = "Linear Scale with Log Transformed Data")
+
+plot_grid(a,b, c, nrow  = 3, align = "hv")
+
+
+```
+
+
+
+## Experimental Data
+
+Supporting information for White and Seymour (2003) Proc. Natl. Acad. Sci. USA, 10.1073/pnas.0436428100
+
+```{r}
+df2 <- read_csv("mammals.csv") %>%
+  drop_na() %>%
+  mutate("BMR/Mass" = BMR/Mass) %>%
+  as.data.frame()
+head(df2)
+tail(df2)
+```
+
+```{r experimental}
+
+d <- ggplot(df2, aes(x = Mass, y = BMR)) +
+    geom_point() +
+    geom_smooth(method = "lm", color = "black") +
+    theme_classic() +
+    labs(x = "Mass (g)", y = "BMR (mL of O2 per hr)",
+        subtitle = "Linear Scale") 
+
+
+e <- ggplot(df2, aes(x = Mass, y = BMR)) +
+    geom_point() +
+    geom_smooth(method = "lm", color = "black") +
+    theme_classic() +
+    labs(x = "Mass (g)", y = "BMR (mL of O2 per hr)",
+        subtitle = "Log Scale") +
+    scale_y_log10( ) +
+    scale_x_log10( ) 
+
+
+f <- ggplot(df2, aes(x = Mass, y = BMR/Mass)) +
+    geom_point() +
+    theme_classic() +
+    labs(x = "Mass (g)", y = "BMR/mass (mL of O2 per hr per g)",
+        subtitle = "Linear Scale") 
+
+g <- ggplot(df2, aes(x = Mass, y = BMR/Mass)) +
+    geom_point() +
+    theme_classic() +
+    labs(x = "Mass (g)", y = "BMR/mass (mL of O2 per hr per g)",
+        subtitle = "Log Scale") +
+    scale_y_log10( ) +
+    scale_x_log10( )
+
+plot_grid(d, e, f, g, nrow  = 2, align = "hv")
+
+```
+

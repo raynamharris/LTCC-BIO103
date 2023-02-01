@@ -1,3 +1,3 @@
-# Example Lesson for LTCC-BIO103
+# Resources for LTCC-BIO103
 
-<https://www.raynamharris.com/LTCC-BIO103/>
+Example lesson : <https://www.raynamharris.com/LTCC-BIO103/>
